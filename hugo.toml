@@ -1,4 +1,4 @@
-baseURL = 'https://ludd-blog.pages.dev/'
+baseURL = "/"
 languageCode = 'en-us'
 title = 'Ludd.Blog'
-theme = "hugo-bearblog"
+theme = 'hugo-bearblog'
