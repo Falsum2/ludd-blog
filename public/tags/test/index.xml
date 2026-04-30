@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ludd.blog</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on ludd.blog</description>
+    <title>Test on ludd.blog</title>
+    <link>//localhost:1313/tags/test/</link>
+    <description>Recent content in Test on ludd.blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test post 1</title>
       <link>//localhost:1313/blog/test-blog-post/</link>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/blog/test-blog-post/</guid>
       <description>&lt;h1 id=&#34;test-post&#34;&gt;Test post&lt;/h1&gt;&#xA;&lt;p&gt;hello, world&lt;/p&gt;&#xA;&lt;p&gt;This is a blog post&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/blog/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/template/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;+++&#xA;title= &amp;#34;Your Post Title&amp;#34;&#xA;date= YYYY-MM-DD&#xA;tags= [&amp;#34;post&amp;#34;]&#xA;draft= true&#xA;+++&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
