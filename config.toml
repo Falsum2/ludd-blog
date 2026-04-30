@@ -1,4 +1,0 @@
-baseURL = "/"
-languageCode = 'en-us'
-title = 'Ludd.Blog'
-theme = 'hugo-bearblog'
