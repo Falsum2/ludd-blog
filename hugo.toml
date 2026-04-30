@@ -2,4 +2,5 @@ baseURL = "/"
 languageCode = "en-us"
 title = "ludd.blog"
 theme = "hugo-bearblog"
-show_blog_post_list_home = true
+[params]
+  show_blog_post_list_home = true
