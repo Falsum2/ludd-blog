@@ -2,7 +2,7 @@
 +++
 title = "Test post 1"
 date = 2026-04-30
-tags = ["test"]
+tags = "test"
 draft = false
 +++
 
