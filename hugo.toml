@@ -14,6 +14,13 @@ languageCode = "en-CA"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Thoughts on technology, climate, and politics from a frustrated academic"
