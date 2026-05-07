@@ -2,7 +2,6 @@
 +++
 title= "Modern Luddism: A Manifesto"
 date= 2026-05-07
-tags= "luddism"
 draft= false
 +++
 ```
