@@ -1,10 +1,9 @@
-```
 +++
 title= "Modern Luddism: A Manifesto"
 date= 2026-05-07
 draft= false
 +++
-```
+
 I'm a luddite. You might be, too. If you aren't, you should be. That's what this blog is going to be about. This post is to explain what exactly the word "luddite" means today.
 
 It does not mean that I am against technology. Luddites are not against technology. *Nobody* is against technology. Technology is just the sum total of the material *stuff* we use to live our lives. Every single human being that has ever lived has used, and liked, technology. *Chimpanzees* and *octopuses* have technology {check octopuses}. Technology is not just a smartphone or a spaceplane but also a bicycle, an iron plow, or a wooden stick.
