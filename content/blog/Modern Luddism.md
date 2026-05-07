@@ -2,8 +2,8 @@
 +++
 title= "Modern Luddism: A Manifesto"
 date= 2026-05-07
-tags= ["luddism"]
-draft= true
+tags= "luddism"
+draft= false
 +++
 ```
 I'm a luddite. You might be, too. If you aren't, you should be. That's what this blog is going to be about. This post is to explain what exactly the word "luddite" means today.
